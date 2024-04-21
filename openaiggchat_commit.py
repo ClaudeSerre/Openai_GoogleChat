@@ -2,7 +2,7 @@ import openai
 import time
 from typing import Any, Mapping
 import flask
-#import functions_framework
+import functions_framework
 
 # Initialisez la clé API d'OpenAI
 openai.api_key = "YOUR API TOKEN HERE"
